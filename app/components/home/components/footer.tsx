@@ -2,13 +2,13 @@ export default function Footer() {
   return (
     <footer className="mx-auto max-w-6xl px-6 pt-12 pb-12">
       <div className="flex flex-col items-start gap-y-2 gap-x-4">
-        <p className="text-sm font-medium text-current/75">© {new Date().getFullYear()} Open Book ID</p>
+        <p className="text-sm font-medium text-current/75">© {new Date().getFullYear()} OpenBook ID</p>
         <div className="flex items-center gap-x-4">
           <a
             href="https://x.com/openbookid"
             target="_blank"
             rel="noopener noreferrer"
-            aria-label="Open Book ID on X"
+            aria-label="OpenBook ID on X"
             className="hover:text-current/75 transition-colors"
           >
             <svg
@@ -26,7 +26,7 @@ export default function Footer() {
             href="https://github.com/openbookid"
             target="_blank"
             rel="noopener noreferrer"
-            aria-label="Open Book ID on GitHub"
+            aria-label="OpenBook ID on GitHub"
             className="hover:text-current/75 transition-colors"
           >
             <svg

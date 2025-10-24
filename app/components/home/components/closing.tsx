@@ -34,7 +34,7 @@ export default function Closing() {
             Open infrastructure for publishing
           </h3>
           <p className="mx-auto mt-2 max-w-2xl text-white/75">
-            Open Book ID is a shared standard for publishing records. Registries,
+            OpenBook ID is a shared standard for publishing records. Registries,
             developers, and institutions can build on a common, verifiable foundation
             without central control.
           </p>

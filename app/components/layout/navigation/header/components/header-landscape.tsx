@@ -11,14 +11,14 @@ export default function HeaderLandscape({ className }: { className?: string }) {
     >
       <div className="mx-auto px-6 py-2 flex items-center justify-between">
         <div
-          aria-label="Open Book ID"
+          aria-label="OpenBook ID"
           className="inline-flex items-center select-none"
           role="img"
-          title="Open Book ID"
+          title="OpenBook ID"
         >
           <Image
             src="/mark/obid/logo-lite.png"
-            alt="Open Book ID"
+            alt="OpenBook ID"
             width={200}
             height={50}
             priority
