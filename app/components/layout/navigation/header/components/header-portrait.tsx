@@ -42,7 +42,7 @@ export default function HeaderPortrait({ className }: { className?: string }) {
             </svg>
           </a>
           <a
-            href="https://t.me/+eiSyHQHJofs1YTAx"
+            href="https://t.me/kamilqui"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center justify-center hover:text-indigo-400 transition-colors"
